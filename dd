@@ -1,0 +1,73 @@
+--getgenv().Key = "here" rQgNUHyQ
+
+
+wait(0.2)
+if getgenv().Key == "GYQ5-VLE4-GQD3" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+ end
+elseif
+ getgenv().Key == "N9TT-9G0A-B7FQ-RANC"
+  then
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+end
+elseif getgenv().Key == "6PY5-99TD-HSSH-C6SL" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+ end
+elseif getgenv().Key == "N5GH-HTPf-GV4F-RANC" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+ end
+
+elseif getgenv().Key == "QK6A-JI6S-7ETR-0A6C" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))() 
+ end
+
+elseif getgenv().Key == "V85F-PMMV-MDYN-R2CA" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+end
+
+elseif getgenv().Key == "YZFG-A8GT-F2BD-DHHG" then
+  
+  if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+end
+
+elseif getgenv().Key == "YZFG-A8GT-Ft5H-POE4" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+end
+
+elseif getgenv().Key == "GT3G-G7NF-Ft5H-POE4" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+end
+
+elseif getgenv().Key == "GT3G-RYUC-FR5S-P03C" then
+  
+ if game.PlaceId == 137877687 then  loadstring(game:HttpGet("https://pastebin.com/raw/GvCvJGLr", true))()
+     elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/uMm2UkcF", true))()
+ elseif game.PlaceId == 2317712696 then loadstring(game:HttpGet("https://pastebin.com/raw/rQgNUHyQ", true))()
+end
+else print("error")
+end
